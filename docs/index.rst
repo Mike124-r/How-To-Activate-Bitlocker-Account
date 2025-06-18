@@ -6,7 +6,14 @@ How To Activate Bitlocker Account: A Step-by-Step Guide
    :caption: Contents:
 
 
-For activation, go to 👉 https://activation-key.net/
+
+
+
+.. image:: click-activate-in.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://activation-key.net/
 --------------
 
 
